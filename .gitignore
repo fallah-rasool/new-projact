@@ -1,5 +1,5 @@
 *.txt
-!redmy.txt
+redmy.txt
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,laravel,sas
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,laravel,sas
